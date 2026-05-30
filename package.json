@@ -1,0 +1,29 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@supabase/supabase-js": "2.106.1",
+    "canvg": "4.0.3",
+    "dompurify": "3.4.5",
+    "html2canvas": "1.4.1",
+    "jspdf": "4.2.1",
+    "jspdf-autotable": "^5.0.8",
+    "lucide-react": "1.16.0",
+    "qrcode.react": "4.2.0",
+    "quill": "^2.0.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-quill": "^2.0.0",
+    "xlsx": "0.18.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
